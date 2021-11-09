@@ -1,2 +1,2 @@
-# basic
-BASIC HTML,CSS AND JAVASCRIPT PROJECTS
+# chrome extension 
+Using basic HTML,CSS and JAVASCRIPT 
